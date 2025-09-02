@@ -1,0 +1,16 @@
+1,John,Bhadra,1,Shrawan,6000.0
+2,Bacon,Bhadra,1,Bhadra 18,6000.0
+3,Diana,Bhadra,1,Shrawan,5500.0
+4,Aegon,Bhadra,1,Shrawan,5000.0
+5,Diego,Shrawan,1,Asar,6000.0
+6,Dora,Shrawan,1,Asar,5500.0
+7,Hotaru,Bhadra,1,Shrawan,5300.0
+8,Zacoe,Shrawan,2,Jestha-Asar,5500.0
+9,Sora,Bhadra,1,Shrawan,6000.0
+10,Mike,Bhadra,1,Shrawan,3600.0
+11,Elon,Bhadra,1,Shrawan,7500.0
+12,Drake,Bhadra,3,Bhadra-Kartik,5000.0
+13,Whosa,Shrawan 15,3,Shrawan-Ashoj,33000.0
+14,Sagawa,Shrawan,4,Baisakh-Shrawan,22000.0
+15,Guras,Chaitra,6,Kartik-Chaitra,8000.0
+16,Donetta,Shrawan,2,Baisakh-Jestha,105000.0
